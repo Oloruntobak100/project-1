@@ -10,9 +10,8 @@
 #nav-bar{
     position: sticky;
     top: 0;
-    z-index: 1;
-    
-    position: fixed;
+    z-index: 10;
+    position: relative;
 }
 .navbar-brand img{
     height: 60px;
